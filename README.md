@@ -10,6 +10,10 @@ Terminus is an intelligent AI-powered coding assistant that helps developers wit
 - 💬 **Interactive Interface**: Clean command-line interface with colored output
 - 🎯 **Coding Focus**: Specifically designed for coding-related queries and tasks
 
+## Demo
+
+🎥 **[Watch Demo Video](https://drive.google.com/file/d/1SweUkxMCoLHM6NN5wJoRUo1eBiIqmoRL/view?usp=sharing)** - See Terminus in action!
+
 ## Installation
 
 1. Clone the repository:
