@@ -1,5 +1,5 @@
-import { TerminusAI } from "./src/core/terminus.js";
-import { getUserInput, displayMessage } from "./src/utils/console.js";
+import { TerminusAI } from "./core/terminus.js";
+import { getUserInput, displayMessage } from "./utils/console.js";
 
 /**
  * Initialize and start the Terminus AI assistant

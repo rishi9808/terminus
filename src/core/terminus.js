@@ -1,11 +1,10 @@
 import { client, MODEL } from "../config/openai.js";
 import { SYSTEM_PROMPT } from "../config/prompts.js";
-import { executeCommand, getWeatherInfo } from "../tools/index.js";
+import { executeCommand  } from "../tools/index.js";
 import { displayMessage } from "../utils/console.js";
 
 // Map of available tools
 const TOOLS_MAP = {
-  getWeatherInfo: getWeatherInfo,
   executeCommand: executeCommand,
 };
 
